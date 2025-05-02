@@ -29,3 +29,33 @@ Algorithm {
   These are sequences of steps taken to solve a problem. For example, the steps taken to find a specific number in a telephone directory organized in alphabetical order. In this case, the steps of searching page by page until finding the desired number can be used. However, depending on the size of the book and the desired name, this solution can take a long time, so to optimize the solution time, a sequence of different steps can be used, in which the book is divided in half, and after the letter that stops, the part where the name will certainly not be is discarded, and this is repeated as many times as necessary to find the desired page and number. In this way, a problem that would be solved in 1000 steps (considering a thousand pages), could be solved in up to 10 steps, making this algorithm faster and more efficient.
 }
 
+Pseudocode {
+  This is a way to whrite an algorithm with a sequence of steps. As an example we have :
+     {Pick up the phone number
+     Open to the middle of book
+     Look at the page 
+       If person is on the page 
+           Call person
+       Else if person is earlier on the book 
+           Open to the middle of left half of book
+           Back to line 36
+       Else if person is later on the book 
+           Open to the middle of right half of book
+           Back to line 36
+       Else
+           Quit}
+  The words "Pick up, Look at, Open to, Call and Quit" are considered functions.
+  The words "If and Else if" are considered conditions, which will be chosen if the question that comes after them is true.
+  The questions are boolean, which can be true or false.
+  The words "Go back to" cause the steps to return to a certain line, making the pseudocode a loop until a final result is found (Quit or Call).
+  Bugs occur when there is an infinite loop, where the pseudocode never reaches a final result
+}
+
+Atificial Intelligence {
+  This system allows, based on a lot of training and database, a more likely result to be found without the need to write thousands of lines of code for each possible question. Artificial intelligence is based on probability and statistics, and therefore training is necessary so that it can find an answer that appears to be the most appropriate for a problem. For example, in a virtual chat bot, assuming that the user can ask infinite types of questions, it would be impossible to have an answer for each one by writing them in code, and for this reason an AI would be used.
+}
+
+Scratch {
+  Scratch is an easier way to program created by MIT, in which, instead of writing code directly as in pseudocode, puzzle pieces (functions) are used to perform algorithms.
+}
+
