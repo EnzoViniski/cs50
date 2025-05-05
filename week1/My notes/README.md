@@ -24,41 +24,41 @@
 
 
 ## Some conventions 
-  - \n - skip to the next line
-  - \r - return to the starting line
-  - \" - used when you literally want to have " in the output
-  - \' - used when you literally want to have ' in the output
-  - \\ - used when you literally want to have \ in the output
+  - \n  skip to the next line
+  - \r  return to the starting line
+  - \"  used when you literally want to have " in the output
+  - \'  used when you literally want to have ' in the output
+  - \\  used when you literally want to have \ in the output
 
 
 ## Some terminal commands 
-  - mkdir - make a directory 
-  - mv - move or rename 
-  - cd - change directory
-  - cp - make a new file with the same code, for example make a backup
-  - ls - list files or foulders for example.
+  - mkdir  make a directory 
+  - mv  move or rename 
+  - cd  change directory
+  - cp  make a new file with the same code, for example make a backup
+  - ls  list files or foulders for example.
   - rm and rmdir - remove or remove directory
 
 
 ## Types 
-  - int - integers
-  - char - single letter
-  - float and double - real numbers
-  - bool - true or false
-  - string - more than one word
-  -  long - longer integers
+  - int  integers
+  - char  single letter
+  - float and double  real numbers
+  - bool  true or false
+  - string  more than one word
+  -  long  longer integers
 
 
 ## Some operators 
-  - = - return value
-  - == - equal
-  - > - greater than
-  - < - less than
-  - >= - greater equal
-  - <= - less than equal
-  - != - diferent
-  - || - or
-  - && - and
+  - =  return value
+  - ==  equal
+  - >  greater than
+  - <  less than
+  - >=  greater equal
+  - <=  less than equal
+  - !=  diferent
+  - ||  or
+  - &&  and
 
 
 
