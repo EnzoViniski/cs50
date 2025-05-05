@@ -42,7 +42,7 @@ Some terminal commands {
 
 Typer {
   int - integers
-  char - single word
+  char - single letter
   float and double - real numbers
   bool - true or false
   string - more than one word
