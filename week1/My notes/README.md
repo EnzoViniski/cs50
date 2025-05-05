@@ -54,7 +54,7 @@
   - ==  equal
   - >  greater than
   - <  less than
-  - > >=  greater equal
+  - >=  greater equal
   - <=  less than equal
   - !=  diferent
   - ||  or
