@@ -1,4 +1,4 @@
-# CS50 – Harvard University
+#CS50 – Harvard University
 
 Welcome! 👋 This repository contains my personal solutions, notes, and projects for [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x), offered by Harvard University.
 
