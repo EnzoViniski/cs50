@@ -37,6 +37,15 @@ Some terminal commands {
   cd - change directory
   cp - make a new file with the same code, for example make a backup
   ls - list files or foulders for example.
-  rm or rmdir - remove or remove directory
+  rm and rmdir - remove or remove directory
+}
+
+Typer {
+  int - integers
+  char - single word
+  float and double - real numbers
+  bool - true or false
+  string - more than one word
+  long - longer integers
   
   
