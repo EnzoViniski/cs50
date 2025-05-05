@@ -14,7 +14,6 @@ Each week is organized into its own folder, containing:
 - My notes
 - Problem Set solutions
 - Lab exercises
-- Any additional practice or reflections
 
 ## 🚀 Why I'm taking CS50
 I'm a Software Engineering student at Universidade Federal de Goiás (Brazil), and I'm studying CS50 to strengthen my computer science fundamentals and prepare for remote developer roles in international companies.
