@@ -47,5 +47,18 @@ Typer {
   bool - true or false
   string - more than one word
   long - longer integers
-  
+}
+
+Some operators {
+  = - return value
+  == - equal
+  > - greater than
+  < - less than
+  >= - greater equal
+  <= - less than equal
+  != - diferent
+}
+
+
+
   
