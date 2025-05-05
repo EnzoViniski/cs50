@@ -57,6 +57,8 @@ Some operators {
   >= - greater equal
   <= - less than equal
   != - diferent
+  || - or
+  && - and
 }
 
 
