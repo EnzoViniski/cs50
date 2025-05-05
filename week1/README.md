@@ -40,7 +40,7 @@ Some terminal commands {
   rm and rmdir - remove or remove directory
 }
 
-Typer {
+Types {
   int - integers
   char - single letter
   float and double - real numbers
