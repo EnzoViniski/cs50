@@ -60,7 +60,15 @@
   - ||  or
   - &&  and
 
+## Some calculator terms
+  - + plus
+  - - less
+  - * times
+  - / divided
+  - % division remainder
 
+## Millennium Bug
+It is important to remember that computers generally use 32 bytes to calculate numbers, and so there comes a time when, for example, when multiplying 2 by itself several times, the result will be 0. To increase the number of possible calculations, there is the long, which consists of integers inserted into a larger number of bytes, allowing the writing and calculation of larger numbers. As an example, in 1999, the millennium bug became famous, which consisted of the fear of computer failures all over the world, caused by the way in which programmers before that time characterized the year with only two digits. As a result, when the year 1999 passed to 2000, humanity was afraid that there would be a collapse in the machines of the time, forcing the readaptation of codes for larger digits.
 
 
   
