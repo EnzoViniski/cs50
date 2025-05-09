@@ -11,9 +11,9 @@ Welcome! 👋 This repository contains my personal solutions, notes, and project
 
 ## 📁 Structure
 Each week is organized into its own folder, containing:
+- Lab exercises
 - My notes
 - Problem Set solutions
-- Lab exercises
 
 ## 🚀 Why I'm taking CS50
 I'm a Software Engineering student at Universidade Federal de Goiás (Brazil), and I'm studying CS50 to strengthen my computer science fundamentals and prepare for remote developer roles in international companies.
